@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-category:
+title: Single Origin
+category: [fiber, scale]
 ---
 
 The remarkable thing about wool is that all wool comes from a specific sheep, and every sheep is different. Not only do different breeds have remarkably varied characteristics—the length and fineness of the fiber, the amount of crimp, the color, the amount and type of grease—but each individual sheep has its own fleece personality. The age and health of the sheep matters a lot: lambs' wool is finer, and stress (from disease or lambing) can weaken the fleece and cause points of breakage. But the sheep's wool also expresses the mysterious complexities of its genetics: perhaps a distant ancestor had some characteristic of fuzziness or fineness or color which, though not expressed in the intermediate generations, comes through in subtle variations. 
