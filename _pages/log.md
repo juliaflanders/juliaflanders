@@ -277,14 +277,21 @@ images:
     yards: 36
     date: 2020-12-15
 
+  - image_path: ../images/spun_yarn_brownie.jpeg
+    title: Brownie (Gulf Coast Native)
+    desc: This is a three-ply yarn from a black ram fleece given me by my friend Amy, from her flock in Texas. The wool has a strong crimp and the yarn shrank significantly with washing, to make a very elastic and bouncy yarn. 
+    weight: 764
+    gauge: 1103
+    yards: 1860
+    date: 2022-01-15
 
   - image_path: ../images/spun_yarns1.jpeg
     title: Total
     desc: All of my spinning since February 2007 
-    weight: 13171
+    weight: 13935
     gauge: n/a
-    yards: 24183
-    as of: 2020-12-15
+    yards: 26403
+    as of: 2022-01-15
 
 
 
