@@ -327,4 +327,4 @@ images:
 
 <p>This is a visualization of this data using a scatter plot from RawGraphs.io. The vertical axis represents <a href="https://woolery.com/yarn-weights-helpful-explanation/">yards per pound</a> (a measure of how fine the yarn is), the horizontal axis represents time, the size of each dot reflects the total yardage for each batch of yarn, the color of the dot represents the different types of fiber, and the name of the yarn provided as a label.</p>
 
-<img src="../images/viz.svg" height="1000px"/>
+<img src="../images/viz.svg" width="1005px"/>
