@@ -15,9 +15,9 @@ images:
     title: Unplied singles (Merino and/or Columbia, hand-dyed)
   - image_path: ../images/unplied_singles_foster_blues.jpeg
     title: Unplied singles (Blue-faced Leicester/Cormo cross, hand-dyed)
-  - image_path: ../images/spun_fiber_foster_blues.jpeg
+  - image_path: ../images/spun_yarn_foster_blues.jpeg
     title: Spun yarn (Blue-faced Leicester/Cormo cross, hand-dyed)
-  - image_path: ../images/spun_yarn_deep_water_.jpeg
+  - image_path: ../images/spun_yarn_deep_water.jpeg
     title: Spun yarn (Merino and/or Columbia, hand-dyed)
   - image_path: ../images/spun_yarn_fog_forest.jpeg
     title: Spun yarn (Merino and/or Columbia, hand-dyed)
