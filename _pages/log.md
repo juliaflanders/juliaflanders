@@ -285,13 +285,38 @@ images:
     yards: 1860
     date: 2022-01-15
 
+  - image_path: ../images/placeholder.jpeg
+    title: Agate (Merino/silk/alpaca blend)
+    desc: This is a thread-plied yarn spun from a commercial roving. Two plies were spun very soft, and then plied together with a variegated rayon thread. 
+    weight: 229
+    gauge: 1381
+    yards: 698
+    date: 2022-03-18
+
+  - image_path: ../images/placeholder.jpeg
+    title: Trout (Merino/silk blend)
+    desc: This is a two-ply yarn spun from a commercial roving. The fiber is very soft and fine; I spun it quite softly, and plied fairly aggressively, for a very springy and light yarn.
+    weight: 147
+    gauge: 1713
+    yards: 556
+    date: 2022-04-14
+
+  - image_path: ../images/placeholder.jpeg
+    title: Minnow (Merino/silk blend)
+    desc: This is a two-ply yarn spun from the same commercial roving as Trout.  I spun it much finer but still quite softly, and plied fairly aggressively, for a fine, soft, and light yarn.
+    weight: 75
+    gauge: 2271
+    yards: 376
+    date: 2022-04-24
+
+
   - image_path: ../images/spun_yarns1.jpeg
     title: Total
     desc: All of my spinning since February 2007 
-    weight: 13935
+    weight: 14386
     gauge: n/a
-    yards: 26403
-    as of: 2022-01-15
+    yards: 27673
+    as of: 2022-05-01
 
 
 
