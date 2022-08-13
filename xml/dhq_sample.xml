@@ -154,17 +154,8 @@
 	<text>
 		<group>
 			<text xml:lang="en">
-				<front>
-					<dhq:abstract>
-						<p>A welcome to DHQ from the editors, with a brief summary of the journal's
-							development and goals.</p>
-					</dhq:abstract>
-					<dhq:teaser>
-						<p>Welcome to DHQ!</p>
-					</dhq:teaser>
-				</front>
 				<body>
-
+<head>Welcome to DHQ!</head>
 					<p>Welcome to the first issue of Digital Humanities Quarterly: a new, online,
 						open-access journal published by the <ref
 							target="http://www.digitalhumanities.org">Alliance of Digital Humanities
@@ -198,7 +189,7 @@
 						also look forward to opportunities for collaboration with <ref
 							target="http://llc.oxfordjournals.org/"><title rend="italic"
 							>LLC</title></ref>, perhaps involving co-publication of articles with
-						complex multimedia components. <note>Discussions have already taken place concerning the special issues arising from the Digital Humanities conference.</note> To the extent that our rhetorical habits are
+						complex multimedia components. <note place="end">Discussions have already taken place concerning the special issues arising from the Digital Humanities conference.</note> To the extent that our rhetorical habits are
 						partly the product of the print medium, with its familiar reference
 						structures, ordering conventions, and practical limitations, we would like
 						to see whether those habits can adapt and mutate — or, at the very least,
@@ -262,17 +253,8 @@
 
 
 			<text xml:lang="fr">
-				<front>
-					<dhq:abstract>
-						<p>Un accueil à DHQ des éditeurs, avec un bref résumé de la revue
-Le développement et les objectifs.</p>
-					</dhq:abstract>
-					<dhq:teaser>
-						<p>Bienvenue à DHQ!</p>
-					</dhq:teaser>
-				</front>
 				<body>
-
+<head>Bienvenue à DHQ!</head>
 					<p>Bienvenue dans le premier numéro de Digital Humanities Quarterly: une nouvelle revue en ligne ouverte ouverte publiée par <ref
 							target="http://www.digitalhumanities.org">l'Alliance des organisations de sciences humaines numériques</ref>. Ce problème a été longtemps en cours. Les premiers efforts d'organisation ont débuté en juin 2005 et le développement technique du journal a commencé peu de temps après. Développer une nouvelle revue - sur un nouveau modèle de publication, avec une architecture technique innovante - n'est pas une entreprise pour les faibles. Ce niveau de défi, cependant, a été au cœur de l'entreprise dès le début: le monde n'a peut-être pas besoin d'une autre revue universitaire, mais il nécessite des expériences sur la publication des revues académiques. DHQ est conçu comme une telle expérience, menée par la communauté la mieux adaptée pour réussir et apprendre des résultats.</p>
 					<p>Qu'est-ce que l'expérimentation de DHQ? Tout d'abord, il s'agit d'un journal à accès libre, librement accessible au public, et publié sous une <ref
