@@ -29,6 +29,8 @@ images:
     title: Spun yarn (Merino and/or Columbia, hand-dyed)
   - image_path: ../images/spun_yarns1.jpeg
     title: Spun yarns (Merino and/or Columbia, hand-dyed)
+  - image_path: ../images/spun_yarn_casis_single2.jpeg
+    title: Spun yarns (Rambouillet and mohair, commercially-dyed)
     
     
     
