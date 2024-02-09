@@ -20,5 +20,3 @@ As I was spinning the yarn, I really found myself enjoying the flow of colors an
 
 
 Although I had assumed that a single strand of unplied yarn would be too weak to be useful, in the course of making the thread-plied yarn I discovered that this fiber actually made a fairly strong single. In my final experiment, I decided to explore that path more fully, and I spun several skeins of singles yarn. This was ultimately my favorite version of the fiber: it brought out the pure colors in their most vibrant form, and the smoother texture of the yarn was more visually peaceful than either of the other versions. In finishing the yarn, I agitated it fairly energetically in hot water to full the fiber slightly so that it would hold together better. This yarn is fairly fine, probably closer to a light sock weight (about 2000 yards per pound). Because it's unplied, it won't hold up in a project with specific abrasion points like a sweater, but it could be used in a scarf or a woven blanket. 
-
-Each of these three versions brings out a different quality in the original fiber
