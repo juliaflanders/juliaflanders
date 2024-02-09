@@ -1,6 +1,6 @@
 ---
-layout: default
-title: log
+layout: page
+title: Log
 permalink: /log/
     
 images:
