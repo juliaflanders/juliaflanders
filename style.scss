@@ -211,7 +211,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $gillSans;
   font-weight: 700;
   font-size: 28px;
   letter-spacing: 1px;
@@ -221,6 +221,7 @@ img {
   margin: -5px 0 0 0;
   color: $darkGray;
   font-size: 16px;
+  font-family: $gillSans;
 
   @include mobile {
     margin: 3px 0;
@@ -230,7 +231,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $gillSans;
   font-size: 18px;
   font-weight: 800;
 
