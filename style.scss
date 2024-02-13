@@ -49,6 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  font-style: italic;
   a {
     color: inherit;
   }
@@ -233,7 +234,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $gillSans;
   font-size: 18px;
-  font-weight: 800;
+  font-weight: 200;
 
   @include mobile {
     float: none;
