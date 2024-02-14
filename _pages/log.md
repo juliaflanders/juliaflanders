@@ -5,14 +5,6 @@ permalink: /log/
     
 images:
 
-  - image_path: ../images/spun_yarns1.jpeg
-    title: Total
-    desc: All of my spinning since February 2007 
-    weight: 16754
-    gauge: n/a
-    yards: 34037
-    as of: 2024-02-10
-
   - image_path: ../images/spun_yarn_coopworth.jpg
     title: Coopworth Knobbly (Coopworth)
     desc: One of my first spinning efforts, and the first fleece I ever bought. The fiber preparation and the spinning are very uneven and the fleece itself was all sorts of different shades of brown and grey, so the resulting yarn is all over the place.
@@ -317,97 +309,26 @@ images:
     yards: 376
     date: 2022-04-24
 
-  - image_path: ../images/placeholder.jpeg
-    title: Moka (unknown fiber)
-    desc: This is a two-ply yarn spun from the same commercial roving as Trout.  I spun it much finer but still quite softly, and plied fairly aggressively, for a fine, soft, and light yarn.
-    weight: 68
-    gauge: 1865
-    yards: 280
-    date: 2023-02-05
 
-  - image_path: ../images/placeholder.jpeg
-    title: Pearl (BFL x Cormo)
-    desc: A luminous, glowing yarn from combed top, soft and radiant! This is a sample skein; I'll be making more of this one
-    weight: 19
-    gauge: 2003
-    yards: 84
-    date: 2023-01-14
-
-  - image_path: ../images/placeholder.jpeg
-    title: Moonshine (BFL x Cormo)
-    desc: Another sample skein from combed top
-    weight: 29
-    gauge: 2156
-    yards: 138
-    date: 2023-01-16
-    
-  - image_path: ../images/placeholder.jpeg
-    title: Terracotta (Coopworth)
-    desc: A soft, springy yarn that makes the most of the crimp in the Coopworth fiber. This was spun from commercially dyed roving.
-    weight: 123
-    gauge: 783
-    yards: 212
-    date: 2023-06-01
-    
-  - image_path: ../images/placeholder.jpeg
-    title: Hematite (BFL x Cormo x Shetland x Leicester Longwool)
-    desc: A soft, lofty, thick yarn intended for a woven blanket. One thick ply and one thin ply for a bumpy texture
-    weight: 512
-    gauge: 708
-    yards: 800
-    date: 2023-06-01
-    
-  - image_path: ../images/placeholder.jpeg
-    title: Hematite + Terracotta (BFL x Cormo x Shetland x Leicester Longwool)
-    desc: A companion yarn to Hematite, also intended for the blanket. One thick ply, plied with a thin ply of Terracotta
-    weight: 467
-    gauge: 852
-    yards: 878
-    date: 2023-06-01
-    
-  - image_path: ../images/placeholder.jpeg
-    title: Cassis Plied (Rambouillet/mohair)
-    desc: A bouncy, medium-soft 2-ply yarn from commercially prepared roving
-    weight: 697
-    gauge: 1310
-    yards: 2038
-    date: 2024-02-01
-    
-  - image_path: ../images/placeholder.jpeg
-    title: Cassis Single (Rambouillet/mohair)
-    desc: A fine, soft, unplied yarn, fulled slightly for strength
-    weight: 396
-    gauge: 1993
-    yards: 1766
-    date: 2024-02-01
-
-  - image_path: ../images/placeholder.jpeg
-    title: Cassis Thread-plied (Rambouillet/mohair)
-    desc: A bulky, lightweight yarn made from a thick-and-thin strand of Cassis, plied with blue rayon thread
-    weight: 57
-    gauge: 1337
-    yards: 168
-    date: 2024-02-01
-    
-        
-#  - image_path: ../images/placeholder.jpeg
-    title:  (fiber name)
-    desc: 
-    weight: 
-    gauge: 
-    yards: 
-    date: 
-    
-
+  - image_path: ../images/spun_yarns1.jpeg
+    title: Total
+    desc: All of my spinning since February 2007 
+    weight: 14386
+    gauge: n/a
+    yards: 27673
+    as of: 2022-05-01
 
 
 
 
 ---
+<<<<<<< HEAD
 <p>This is a visualization of my total yarn production data using a bubble chart from RawGraphs.io. The vertical axis represents <a href="https://woolery.com/yarn-weights-helpful-explanation/">yards per pound</a> (a measure of how fine the yarn is), the horizontal axis represents time, the size of each dot reflects the total yardage for each batch of yarn, the color of the dot represents the different types of fiber, and the name of the yarn provided as a label. For context, a commercial lace-weight yarn is typically in the range of 3000–4000 yards per pound; a commercial worsted yarn (suitable for knitting a medium sweater) is in the range of 800 yards per pound.</p>
 
 <img src="../images/viz.svg" width="1005px"/>
 
+=======
+>>>>>>> parent of 0658d5f (Updated my log file to add new yarn)
 <p>This table shows a log of my yarn production. The columns are sortable (just click on the heading and then on the little sort triangle).</p>
 
 <table class="sortable" width="100%">
@@ -436,3 +357,6 @@ images:
   	</tbody>
 </table>
 
+<p>This is a visualization of this data using a scatter plot from RawGraphs.io. The vertical axis represents <a href="https://woolery.com/yarn-weights-helpful-explanation/">yards per pound</a> (a measure of how fine the yarn is), the horizontal axis represents time, the size of each dot reflects the total yardage for each batch of yarn, the color of the dot represents the different types of fiber, and the name of the yarn provided as a label.</p>
+
+<img src="../images/viz.svg" width="1005px"/>
