@@ -9,9 +9,7 @@ name: Julia Flanders
 description: fiber and digital humanities practitioner
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
-
-#https://raw.githubusercontent.com/juliaflanders/juliaflanders/main/images/flanders_avatar.jpg
+avatar: /images/flanders_avatar.jpg
 
 #
 # Flags below are optional
