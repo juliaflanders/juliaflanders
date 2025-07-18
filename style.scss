@@ -200,6 +200,7 @@ img {
 .site-info {
   float: left;
   background-image: url('./images/banner_thin_adjusted.jpg');
+  background-size: cover;
 
   @include mobile {
     float: none;
