@@ -211,7 +211,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $gillSans;
+  font-family: $segoe;
   font-weight: 700;
   font-size: 28px;
   letter-spacing: 1px;
@@ -221,7 +221,7 @@ img {
   margin: -5px 0 0 0;
   color: $darkGray;
   font-size: 16px;
-  font-family: $gillSans;
+  font-family: $segoe;
 
   @include mobile {
     margin: 3px 0;
