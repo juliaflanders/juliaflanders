@@ -167,7 +167,7 @@ img {
 .wrapper-masthead {
   margin-bottom: 50px;
   font-weight: 700;
-  background-image: url('./images/banner_thin_adjusted.jpg');
+//  background-image: url('./images/banner_thin_adjusted.jpg');
 }
 
 
@@ -199,6 +199,7 @@ img {
 
 .site-info {
   float: left;
+  background-image: url('./images/banner_thin_adjusted.jpg');
 
   @include mobile {
     float: none;
