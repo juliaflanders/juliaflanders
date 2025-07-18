@@ -73,7 +73,7 @@ p {
 
 a {
   color: $blue;
-  text-decoration: none;
+  text-decoration-line: underline;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
@@ -231,7 +231,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $gillSans;
+  font-family: $segoe;
   font-size: 18px;
   font-weight: 200;
 
@@ -247,6 +247,7 @@ nav {
     color: $darkGray;
     text-align: right;
     letter-spacing: 1px;
+    text-decoration: none;
 
     @include mobile {
       margin: 0 10px;
