@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Log
-permalink: /log/
+permalink: /log2/
     
 
 <p>This is a visualization of my total yarn production data using a bubble chart from RawGraphs.io. The vertical axis represents <a href="https://woolery.com/yarn-weights-helpful-explanation/">yards per pound</a> (a measure of how fine the yarn is), the horizontal axis represents time, the size of each dot reflects the total yardage for each batch of yarn, the color of the dot represents the different types of fiber, and the name of the yarn provided as a label. For context, a commercial lace-weight yarn is typically in the range of 3000–4000 yards per pound; a commercial worsted yarn (suitable for knitting a medium sweater) is in the range of 800 yards per pound.</p>
