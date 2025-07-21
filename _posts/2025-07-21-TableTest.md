@@ -6,7 +6,8 @@ category:
 This is a test post that uses both markdown and HTML, to see if that works.
 
 <table>
-			<tbody>
+		<tbody style="border:1px solid;">
+
 				<tr>
 					<td>Cell 1 in Row 1</td>
 					<td>Cell 2 in Row 1</td>
